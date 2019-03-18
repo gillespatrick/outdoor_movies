@@ -42,13 +42,13 @@ editing content, etc ..., and which are defined on time, it is convenient for us
 Domain Name and Hosting
 
 The domain name of the website is [Outdoor Movies Festival](https://gillespatrick.github.io/outdoor_movies/). We use the following tools:
-'' '
+
 - Apache 2.4 web server
 - HTML 5
 - CSS 3
 - JavaScript
-- ...
-'' '
+- Etc...
+
 
 ## Accessibilities and compatibilities.
 
