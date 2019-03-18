@@ -1,0 +1,52 @@
+body  {
+    font-family: 'Satisfy', cursive, Liberation Serif, sans-serif, Times New Roman, Times, serif;
+    font-size: 18px;
+   
+    
+}
+
+p {
+    text-align: justify;
+    font-size: 18px;
+    
+}
+
+header {
+    background: url('img/separator.png') repeat-x bottom;
+    display: flex;
+    justify-content:space-between; 
+    align-items: flex-end;
+}
+
+#logo{
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+
+}
+
+ul{
+    list-style-type: none;
+    display: flex;
+}
+
+li{
+    margin-right: 20px;
+    font-size: 25px;
+}
+
+#navbar a{
+    font-size: 1.3em;
+    color: #181818;
+    text-decoration: none;
+}
+
+
+#navbar a:hover{
+    color: #760001;
+    border-bottom: 3px solid #760001;
+}
+
+#slide{
+    
+}
